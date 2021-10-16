@@ -1,4 +1,4 @@
-### Hey folks! 👋
+### 🌈Hey folks!✨
 
 <!--
 **antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is PuguangCai. I am studying for a master's degree in Tianjin University.
-
-[Ÿ HŸPE]: https://cpg123456.github.io/Puguang-Cai/
-[GitHub Profile Views Counter]: https://github.com/CPG123456/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+My name is PuguangCai👨‍🎓 and I'm a graduate student at Tianjin University🎓.
+I am looking for a job as an algorithm engineer👨‍💻. If you recognize my ability💪, please contact me📧(pgcai@tju.edu.cn).
