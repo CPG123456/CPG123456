@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name is PuguangCai👨‍🎓 and I'm a graduate student at Tianjin University🎓.
-I am looking for a job as an algorithm engineer👨‍💻. If you recognize my ability💪, please contact me📧(pgcai@tju.edu.cn).
+I am looking for a job as an algorithm engineer👨‍💻. 
+If you recognize my ability💪, please contact me📧(pgcai@tju.edu.cn).
