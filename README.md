@@ -1,4 +1,4 @@
-<img src="https://github.com/pgcai/pgcai/blob/main/tju_blue.png?raw=true" width = "100" height = "25" alt="This is me." align=right />
+<img src="https://github.com/pgcai/pgcai/blob/main/tju_a1.png?raw=true" width = "200" height = "50" alt="This is me." align=right />
 ### 🌈Hey folks!✨
 
 
