@@ -1,5 +1,6 @@
+<img src="https://github.com/pgcai/pgcai/blob/main/tju_blue.png?raw=true" width = "100" height = "25" alt="This is me." align=right />
 ### 🌈Hey folks!✨
-<img src="https://github.com/pgcai/pgcai/blob/main/tju.png?raw=true" width = "100" height = "25" alt="This is me." align=right />
+
 
 <!--
 **antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
