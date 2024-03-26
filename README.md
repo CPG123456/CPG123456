@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is PuguangCai👨‍🎓 and I'm a graduate student at Tianjin University🎓.
-I am looking for a job as an algorithm engineer👨‍💻. 
-If you can offer such a position, please contact me📧(pgcai@tju.edu.cn).
+My name is PuguangCai👨‍🎓 and I graduated from Tianjin University🎓.
+I'm currently working on stereo matching.If you have anything you want to communicate, please contact me📧(pgcai@tju.edu.cn).
